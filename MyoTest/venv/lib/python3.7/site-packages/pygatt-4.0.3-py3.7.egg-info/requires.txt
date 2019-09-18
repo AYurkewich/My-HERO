@@ -1,0 +1,5 @@
+pyserial
+enum-compat
+
+[GATTTOOL]
+pexpect

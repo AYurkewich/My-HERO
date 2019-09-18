@@ -1,0 +1,3 @@
+#!/Users/emilyduggan/PycharmProjects/MyoTest/venv/bin/python
+from numba.pycc import main
+main()

@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: fexpect
+Version: 0.2.post17
+Summary: extension of fabric for handling prompts with pexpect
+Home-page: http://ilogue.com
+Author: Jasper van den Bosch
+Author-email: jasper@ilogue.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: ilogue
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Development Status :: 4 - Beta

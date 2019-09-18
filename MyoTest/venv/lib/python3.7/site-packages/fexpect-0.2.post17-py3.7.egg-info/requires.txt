@@ -1,0 +1,4 @@
+fabric
+pexpect
+shortuuid
+setuptools
